@@ -1,0 +1,22 @@
+{
+  "name": "raydar-test",
+  "version": "1.0.0",
+  "description": "technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raydar"
+  ],
+  "author": "ngocnv",
+  "license": "ISC",
+  "dependencies": {
+    "WNdb": "^3.1.1",
+    "bluebird": "^3.0.6",
+    "lodash": "^3.10.1",
+    "natural": "^0.2.1",
+    "node-wordnet": "^0.1.11",
+    "wndb-with-exceptions": "^3.0.1"
+  }
+}
